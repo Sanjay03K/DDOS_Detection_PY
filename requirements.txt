@@ -251,7 +251,6 @@ Scrapy @ file:///C:/Windows/TEMP/abs_f50e21j997/croots/recipe/scrapy_16595987071
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 sendgrid==6.9.7
-service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 sip==4.19.13
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///C:/ci/smart_open_1651235069716/work
